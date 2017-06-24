@@ -3,9 +3,9 @@
 	var t = document.createElement('table');
 	var data = {
 		"headings": [
-			"Name",
-			"Company",
-			"Ext.",
+			"Nombre",
+			"Compañia",
+			"archivo",
 			"Start Date",
 			"Email",
 			"Phone No."
