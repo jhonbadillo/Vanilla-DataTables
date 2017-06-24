@@ -3,7 +3,7 @@
 	var t = document.createElement('table');
 	var data = {
 		"headings": [
-			"Name",
+			"Nombre",
 			"Company",
 			"Ext.",
 			"Start Date",
